@@ -125,6 +125,8 @@ form {
     color: #495057; 
     margin-bottom: 3.2rem;
     resize: none;
+    border: none;
+    outline: none;
 }
 
 .btn-copiar {
